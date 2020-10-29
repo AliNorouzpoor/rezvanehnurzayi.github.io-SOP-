@@ -1,6 +1,5 @@
 ### SOP
 ----------
-layout: rtl
 <div dir="rtl">
 به نام خدا
 <br>
